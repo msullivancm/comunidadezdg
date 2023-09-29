@@ -1,3 +1,6 @@
-2023/09/27-15:37:21.710 b103 Reusing MANIFEST /Users/sullivan/sources/enviarMensagensWhatsappComPython/comunidadezdg/.wwebjs_auth/session-bot-zdg/Default/Local Storage/leveldb/MANIFEST-000001
-2023/09/27-15:37:21.714 b103 Recovering log #3
-2023/09/27-15:37:21.716 b103 Reusing old log /Users/sullivan/sources/enviarMensagensWhatsappComPython/comunidadezdg/.wwebjs_auth/session-bot-zdg/Default/Local Storage/leveldb/000003.log 
+2023/09/28-22:44:04.747 9e03 Reusing MANIFEST /Users/sullivan/sources/enviarMensagensWhatsappComPython/comunidadezdg/.wwebjs_auth/session-bot-zdg/Default/Local Storage/leveldb/MANIFEST-000001
+2023/09/28-22:44:04.747 9e03 Recovering log #3
+2023/09/28-22:44:04.748 9e03 Reusing old log /Users/sullivan/sources/enviarMensagensWhatsappComPython/comunidadezdg/.wwebjs_auth/session-bot-zdg/Default/Local Storage/leveldb/000003.log 
+2023/09/28-22:46:05.702 b70b Level-0 table #5: started
+2023/09/28-22:46:05.708 b70b Level-0 table #5: 25228 bytes OK
+2023/09/28-22:46:05.715 b70b Delete type=0 #3
